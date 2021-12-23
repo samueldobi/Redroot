@@ -1,0 +1,86 @@
+@media only screen and (max-width: 1024px){
+    .footer-sect h6{
+        font-size: 1.2rem;
+    }
+    .footer-sect li,#footer-txt{
+        font-size:0.8rem;
+    }
+    .sm-sect img{
+        width:70%;
+        padding: 10px 0px 10px 0px;
+    }
+}
+
+
+@media only screen and (max-width: 768px){
+    
+    ul {
+        background-color: white;
+    }
+    #navbarNav a{
+        color: black;
+        padding: 10px;
+    }
+    .btn-secondary{
+        background-color:#00abff;
+        margin: 5px;
+    }
+    #button2{
+        margin-bottom: 10px;
+    }
+    .iphone-container{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .map img{
+        display: none;
+    }
+    .stellar-sect{
+        background-image:url("../images/map.svg");
+        background-repeat: no-repeat;
+        width: 100%;
+        height:auto;
+        background-size: cover; 
+    }
+    .assets{
+        background-color: #eef7fe;
+    }
+    .asset-box{
+        display: flex;
+        flex-direction:column-reverse;
+        justify-content: center;
+    }
+    .referral >p ,h4,h5{
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    h4{
+        font-size: 2rem;
+    }
+    h5{
+        font-size: 1.4rem;
+    }
+    .sm-sect img{
+        width:25%;
+    }
+    .footer-sect{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .link-sect{
+        display: flex;
+        flex-direction: column;
+    }
+    .site-links{
+        flex-wrap: wrap;
+    }
+    h6{
+        text-align:initial;
+    }
+    footer div{
+        margin: 5px 0px 5px 0px;
+    }
+   
+   
+} 

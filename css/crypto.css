@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+html{
+    font-family: "ubuntu", sans-serif;
+}
+.main-content{
+    background-color: #1b8da0;
+    margin-bottom: 2rem;
+}
+.navbar{
+    background-color:#1b8da0 ;
+}
+#navbarNav a{
+    color: white;
+}
+#visa-logo{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 0px 1px 0px 1px;
+    border-radius: 3px;
+
+}
+.btn{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border: none;   
+}
+.content-intro{
+    margin-top: 5%;
+}
+.iphone-container{
+    background-image:url("../images/iphone-mockup.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    background-size: contain; 
+}
+h1{
+    font-size: 3.5rem; 
+    color: white;
+}
+#intro-txt{
+    color: white;
+}
+.intro-header{
+    font-size: 1rem;
+    padding-top:3rem;
+}
+#button2{
+    background-color:#00abff;
+}
+.display-tab img{
+    width:15%;
+}
+.display-tab .row{
+    margin-bottom: 3rem;
+}
+#stellar-link a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.learn-more{
+    background-color: #eef7fe;
+}
+.learn-more a{
+    text-decoration: none;
+    color: white;
+}
+/* .learn-more >.learn-video{
+    margin-top: 3rem;
+} */
+h3{
+    padding-top:1.5rem;
+    padding-bottom:1.5rem;
+}
+.video-frame .vid-tube{
+    width: 100%;
+}
+.play-btn img{
+    width: 20%;
+}
+.line3 img{
+    width:25%;
+}
+.referral{
+    margin-bottom:10%;
+}
+.referral p{
+    font-size: 0.9rem;
+}
+.line1> img,.line2> img,.line3> img{
+    max-width:50px;
+    margin: 10px;
+}
+.sm-sect img{
+    width:60%;
+}
+.download-btn img{
+    padding-top: 5px;
+}
+footer li,#footer-txt{
+    list-style-type: none;
+    font-size: 0.8rem
+}
+ h6{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.sm-sect p,.link-sect li{
+    padding: 5px 0px 5px 0px;
+}

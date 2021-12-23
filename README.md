@@ -1,2 +1,2 @@
 # Redroot
-My practice 
+ This is a website built for practice
