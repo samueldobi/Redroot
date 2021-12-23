@@ -33,6 +33,7 @@ html{
     height: 500px;
     background-size: contain; 
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 h1{
     font-size: 3.5rem; 
