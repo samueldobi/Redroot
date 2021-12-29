@@ -3,11 +3,11 @@ html{
     font-family: "ubuntu", sans-serif;
 }
 .main-content{
-    background-color: #1b8da0;
+    background-color: #112a6c;
     margin-bottom: 2rem;
 }
 .navbar{
-    background-color:#1b8da0 ;
+    background-color:#112a6c;
 }
 #navbarNav a{
     color: white;
