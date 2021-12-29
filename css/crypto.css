@@ -3,11 +3,11 @@ html{
     font-family: "ubuntu", sans-serif;
 }
 .main-content{
-    background-color: #112a6c;
+    background-color: #ff5a00;
     margin-bottom: 2rem;
 }
 .navbar{
-    background-color:#112a6c;
+    background-color:#ff5a00;
 }
 #navbarNav a{
     color: white;
@@ -47,7 +47,7 @@ h1{
     padding-top:3rem;
 }
 #button2{
-    background-color:#00abff;
+    background-color:#112a6c;
 }
 .display-tab img{
     width:15%;
