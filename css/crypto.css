@@ -79,6 +79,7 @@ h3{
 }
 .video-frame .vid-tube{
     width: 100%;
+    border-radius: 10px;
 }
 .play-btn img{
     width: 20%;
